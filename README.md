@@ -1,3 +1,5 @@
+# Note to self. Grabs stats on any file you have touched. (Including private repos and repos w/ other owners)
+
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
 <a href="https://github.com/jstrieb/github-stats">
